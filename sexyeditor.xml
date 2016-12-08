@@ -1,0 +1,19 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="fileNames">
+            <array>
+              <option value="C:\Users\Administrator\Desktop\tu\1920x1200.jpg" />
+            </array>
+          </option>
+          <option name="opacity" value="0.11" />
+          <option name="position" value="4" />
+          <option name="shrink" value="true" />
+          <option name="shrinkValue" value="100" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
